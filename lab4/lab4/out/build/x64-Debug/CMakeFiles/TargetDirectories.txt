@@ -1,0 +1,14 @@
+D:/c++ programm 2sem/lab4/lab4/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+D:/c++ programm 2sem/lab4/lab4/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+D:/c++ programm 2sem/lab4/lab4/out/build/x64-Debug/main/CMakeFiles/main.dir
+D:/c++ programm 2sem/lab4/lab4/out/build/x64-Debug/main/CMakeFiles/edit_cache.dir
+D:/c++ programm 2sem/lab4/lab4/out/build/x64-Debug/main/CMakeFiles/rebuild_cache.dir
+D:/c++ programm 2sem/lab4/lab4/out/build/x64-Debug/ArrayList/CMakeFiles/ArrayList.dir
+D:/c++ programm 2sem/lab4/lab4/out/build/x64-Debug/ArrayList/CMakeFiles/edit_cache.dir
+D:/c++ programm 2sem/lab4/lab4/out/build/x64-Debug/ArrayList/CMakeFiles/rebuild_cache.dir
+D:/c++ programm 2sem/lab4/lab4/out/build/x64-Debug/gtest/CMakeFiles/gtest.dir
+D:/c++ programm 2sem/lab4/lab4/out/build/x64-Debug/gtest/CMakeFiles/edit_cache.dir
+D:/c++ programm 2sem/lab4/lab4/out/build/x64-Debug/gtest/CMakeFiles/rebuild_cache.dir
+D:/c++ programm 2sem/lab4/lab4/out/build/x64-Debug/test/CMakeFiles/ArrayList_Test.dir
+D:/c++ programm 2sem/lab4/lab4/out/build/x64-Debug/test/CMakeFiles/edit_cache.dir
+D:/c++ programm 2sem/lab4/lab4/out/build/x64-Debug/test/CMakeFiles/rebuild_cache.dir
